@@ -17,7 +17,7 @@ An upto date list of papers related to extending English LLMs to new languages a
 
 # Citing 
 
-If you find the material on this site usefule, please cite
+If you find the material on this site useful, please cite
 
 ```
 @online{kunchukuttan2024extendllm,
